@@ -4,14 +4,16 @@
     :align: center
     :alt: qgrid
 
-.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/lalajz/qgrid/master
-
 =====
 qgrid
 =====
 Qgrid is a Jupyter notebook widget which uses `SlickGrid <https://github.com/mleibman/SlickGrid>`_ to render pandas
 DataFrames within a Jupyter notebook. This allows you to explore your DataFrames with intuitive scrolling, sorting, and
 filtering controls, as well as edit your DataFrames by double clicking cells.
+
+
+.. image:: https://mybinder.org/badge.svg :
+    :target: https://mybinder.org/v2/gh/lalajz/qgrid/master
 
      
 API Documentation
