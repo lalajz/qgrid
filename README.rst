@@ -13,8 +13,7 @@ filtering controls, as well as edit your DataFrames by double clicking cells.
 
 
 .. image:: https://mybinder.org/badge.svg 
-    :target: https://mybinder.org/v2/gh/lalajz/qgrid/master
-
+    :target: https://mybinder.org/v2/gh/lalajz/qgrid/master?filepath=qgrid.ipynb
      
 API Documentation
 -----------------
