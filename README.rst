@@ -4,6 +4,8 @@
     :align: center
     :alt: qgrid
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lalajz/qgrid/master)
+
 =====
 qgrid
 =====
