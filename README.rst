@@ -12,7 +12,7 @@ DataFrames within a Jupyter notebook. This allows you to explore your DataFrames
 filtering controls, as well as edit your DataFrames by double clicking cells.
 
 
-.. image:: https://mybinder.org/badge.svg :
+.. image:: https://mybinder.org/badge.svg 
     :target: https://mybinder.org/v2/gh/lalajz/qgrid/master
 
      
