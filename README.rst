@@ -11,16 +11,7 @@ Qgrid is a Jupyter notebook widget which uses `SlickGrid <https://github.com/mle
 DataFrames within a Jupyter notebook. This allows you to explore your DataFrames with intuitive scrolling, sorting, and
 filtering controls, as well as edit your DataFrames by double clicking cells.
 
-      For people who would rather not go to another page to try out qgrid for real, here's the tldr; version:
-
-        .. figure:: docs/images/filtering_demo.gif
-         :align: left
-         :target: docs/images/filtering_demo.gif
-         :width: 200px
-
-          A brief demo showing filtering, editing, and the `get_changed_df()` method
-
-
+     
 API Documentation
 -----------------
 API documentation is hosted on `readthedocs <http://qgrid.readthedocs.io/en/latest/>`_.
